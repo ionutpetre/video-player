@@ -1,0 +1,18 @@
+﻿Player video
+
+
+Descriere: Permite utilizatorului să vizioneze o colecție de minim 4 filme. 
+Filmele sunt stocate static în cadrul aplicației.
+
+
+1p posibilitate navigare prin playlist; trecere automată la filmul următor
+
+1p aplicare de efecte video (selectabile de către utilizator)
+
+2p desenare controale (previous, play / pause, next, progress bar) pe canvas
+
+1p desenare histogramă în timp real pentru video
+
+1p salvare cadru curent
+
+1p afișare subtitrări (stocate sub formă de fișiere JSON în cadrul aplicației)

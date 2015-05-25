@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html lang="ro">
+	<head>
+		<title>Player video</title>
+		<script type="text/javascript" src="lib/jquery.js"></script>
+		<script type="text/javascript" src="2_1054_PETRE_Ionut.js"></script>
+		<link type="text/css" rel="stylesheet" href="2_1054_PETRE_Ionut.css">
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1 id="titlu-video">Peck pocketed</h1>
+		<canvas id="video-player">
+			Eroare: Browserul dvs. nu suporta tagul canvas.
+		</canvas>
+		<button id="autoplay" type="button">Autoplay : Oprit</button>
+		<ul id="playlist">
+			<li>
+				<a href="#"><img src="media/video1.jpg"></a>
+				<p>The final straw</p>
+			</li>
+			<li>
+				<a href="#"><img src="media/video2.jpg"></a>
+				<p>Lama</p>
+			</li>
+			<li>
+				<a href="#"><img src="media/video3.jpg"></a>
+				<p>Peck pocketed</p>	
+			</li>
+			<li>
+				<a href="#"><img src="media/video4.jpg"></a>
+				<p>Rupert & sam</p>
+			</li>
+			<li>
+				<a href="#"><img src="media/video5.jpg"></a>
+				<p>Caveman</p>
+			</li>
+		</ul>
+
+		<div id="efecte">
+			<button id="normal">Normal</button>
+			<button id="gri">Gri</button>
+			<button id="sepia">Sepia</button>
+			<button id="rosu">Rosu</button>
+			<button id="inverseaza">Inverseaza</button>
+		</div>
+		
+		<a href="#" id="cadruVideo" target="_new"><button>Salvare cadru</button></a>
+	</body>
+</html>

@@ -1,0 +1,70 @@
+[
+	{
+		"id" : "1",
+		 "subtitrare" : 
+		 [
+		 	{"sec1":"19", "sec2":"20", "text":"Craaaa"},
+		 	{"sec1":"23", "sec2":"24", "text":"Buuuh"},
+		 	{"sec1":"26", "sec2":"27", "text":"Nu te sperii?"},
+		 	{"sec1":"27", "sec2":"28", "text":"Iti dau eu tie!"}
+		 ]
+	},
+	{
+		"id" : "2",
+		 "subtitrare" : 
+		 [
+    		{"sec1":"13", "sec2":"14", "text":"Vuuuuuuuuuuum..."}
+		 ]
+	},
+	{
+		"id" : "3",
+		 "subtitrare" : 
+		 [
+		 	{"sec1":"15", "sec2":"16", "text":"Hei, ce e asta?"},
+		 	{"sec1":"16", "sec2":"17", "text":"Un bat..."},
+		 	{"sec1":"17", "sec2":"18", "text":"Nefolositor!"},
+		 	{"sec1":"24", "sec2":"26", "text":"Aha, ce de lucruri folositoare!"},
+		 	{"sec1":"30", "sec2":"33", "text":"Hm... ce idee mi-a venit!"},
+		 	{"sec1":"35", "sec2":"37", "text":"Dar ce sforaie.."},
+		 	{"sec1":"39", "sec2":"41", "text":"O geanta de valoare!"},
+		 	{"sec1":"41", "sec2":"42", "text":"Am intrat"},
+		 	{"sec1":"42", "sec2":"43", "text":"Am iesit"},
+		 	{"sec1":"44", "sec2":"45", "text":"Da, tot doarme...Ce bine"},
+		 	{"sec1":"45", "sec2":"46", "text":"Sa fugiiim"},
+		 	{"sec1":"47", "sec2":"48", "text":"Hmmm.. un telefon"},
+		 	{"sec1":"48", "sec2":"49", "text":"La ce o fi bun oare?"},
+		 	{"sec1":"51", "sec2":"52", "text":"Aha! M-am prins!"},
+		 	{"sec1":"56", "sec2":"57", "text":"Nu, nu, nu"},
+		 	{"sec1":"57", "sec2":"59", "text":"Nu te trezi!"},
+		 	{"sec1":"63", "sec2":"64", "text":"Gata, e al meeu"},
+		 	{"sec1":"65", "sec2":"66", "text":"Si ochelarii sunt ai mei"},
+		 	{"sec1":"66", "sec2":"67", "text":"Stai, nu te misca"},
+		 	{"sec1":"67", "sec2":"68", "text":"Stai, stai.."},
+		 	{"sec1":"68", "sec2":"70", "text":"Inca putin"},
+		 	{"sec1":"73", "sec2":"74", "text":"I-am luat!"},
+		 	{"sec1":"75", "sec2":"76", "text":"Ah, ce viata am!"},
+		 	{"sec1":"76", "sec2":"77", "text":"Cine mai e ca mine.."},
+		 	{"sec1":"77", "sec2":"78", "text":"Ce?"},
+		 	{"sec1":"78", "sec2":"79", "text":"Inca ceva de furat?"},
+		 	{"sec1":"80", "sec2":"81", "text":"Am veniit!"},
+		 	{"sec1":"82", "sec2":"83", "text":"Da, inca doarme, ce bine"},
+		 	{"sec1":"84", "sec2":"85", "text":"Ce se intampla daca.."},
+		 	{"sec1":"85", "sec2":"87", "text":"Au?"},
+		 	{"sec1":"88", "sec2":"89", "text":"Da, ce bine e"},
+		 	{"sec1":"89", "sec2":"90", "text":"Ce casa am acum"},
+		 	{"sec1":"91", "sec2":"93", "text":"Hmm masaj.."},
+		 	{"sec1":"94", "sec2":"95", "text":"Ceee?"},
+		 	{"sec1":"95", "sec2":"96", "text":"Nu se poate"},
+		 	{"sec1":"96", "sec2":"97", "text":"Oh"},
+		 	{"sec1":"98", "sec2":"99", "text":"Lucrurile mele!"},
+		 	{"sec1":"99", "sec2":"102", "text":"Oare unde au fost?"},
+		 	{"sec1":"105", "sec2":"107", "text":"Ce ma doare.."},
+		 	{"sec1":"108", "sec2":"110", "text":"Ce-i asta?"},
+		 	{"sec1":"111", "sec2":"113", "text":"Tu ai fost!"},
+		 	{"sec1":"113", "sec2":"114", "text":"Nemernicule"},
+		 	{"sec1":"114", "sec2":"117", "text":"Zbori!"},
+		 	{"sec1":"119", "sec2":"120", "text":"Hei, sunt pe afis"},
+		 	{"sec1":"121", "sec2":"122", "text":"Sfarsit"}
+		 ]
+	}
+]
